@@ -1,0 +1,23 @@
+body{
+    font-family: 'Tenor Sans', sans-serif;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 2;
+}
+.header__image {
+    width: 800px;
+    display: inline-block;
+
+}
+.header__nav{
+    justify-content: center;
+    display: flex;
+}
