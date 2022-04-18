@@ -1,23 +1,37 @@
 body{
     font-family: 'Tenor Sans', sans-serif;
+    background-color: white;
 }
 
 header{
-    display: flex;
-    align-items: center;
     padding: 10px;
-    position: absolute;
+    position: relative;
     top: 0;
     left: 0;
     right: 0;
     z-index: 2;
 }
 .header__image {
+    display: block;
+    margin: 0px auto;
+    align-items: center;
+    justify-content: space-between;
     width: 800px;
-    display: inline-block;
+    position: relative;
 
 }
 .header__nav{
-    justify-content: center;
     display: flex;
+    position: relative;
+    justify-content:space-around;
+    align-items: center;
+    flex-direction: row;
+    padding: 8px
+}
+.header__link {
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-weight: 600;
+    background-color: pink;
+    color:black;
 }
