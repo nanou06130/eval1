@@ -1,0 +1,31 @@
+
+/*first section*/
+.cover{
+ text-align: center;
+ background-color: lightpink;   
+ margin: 10px;
+}
+/*end first section*/
+
+/*second section*/
+.presentation{
+    background-color: antiquewhite;
+    border: solid 1px black;
+    margin: 10px; 
+      
+}
+.title__presentation{
+    text-align: center;
+}
+
+.text__presentation{
+    margin: 10px;
+}
+
+/*end second section*/
+
+/*last section*/
+.title__explication{
+    text-align: center;
+}
+/* end last section*/
