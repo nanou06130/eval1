@@ -4,7 +4,7 @@
  text-align: center;
  background-color: lightpink;   
  margin: 10px;
- border-radius: 30px;
+ border-radius: 10px;
 }
 /*end first section*/
 
@@ -14,7 +14,7 @@
     border: solid 1px black;
     margin: 10px;
     padding: 10px;
-    border-radius: 30px; 
+    border-radius: 10px; 
       
 }
 .title__presentation{
@@ -43,7 +43,7 @@
     border: solid 1px black;
     margin: 10px;
     padding: 10px;
-    border-radius: 30px;
+    border-radius: 10px;
 
 }
 .title__monthevent{
@@ -60,3 +60,4 @@ font-weight: bolder;
     text-align: center;
 }
 /* end last section*/
+
