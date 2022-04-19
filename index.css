@@ -25,7 +25,21 @@
 /*end second section*/
 
 /*last section*/
+.explication{
+    background-color: antiquewhite;
+    border: solid 1px black;
+    margin: 10px;
+    padding: 10px;
+}
 .title__explication{
     text-align: center;
 }
+.lessonsco{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 10px;
+
+}
+
 /* end last section*/
