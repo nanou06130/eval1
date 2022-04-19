@@ -4,14 +4,17 @@
  text-align: center;
  background-color: lightpink;   
  margin: 10px;
+ border-radius: 30px;
 }
 /*end first section*/
 
 /*second section*/
-.presentation{
+.presentation, .explication{
     background-color: antiquewhite;
     border: solid 1px black;
-    margin: 10px; 
+    margin: 10px;
+    padding: 10px;
+    border-radius: 30px; 
       
 }
 .title__presentation{
@@ -25,12 +28,6 @@
 /*end second section*/
 
 /*last section*/
-.explication{
-    background-color: antiquewhite;
-    border: solid 1px black;
-    margin: 10px;
-    padding: 10px;
-}
 .title__explication{
     text-align: center;
 }
@@ -41,5 +38,25 @@
     margin: 10px;
 
 }
+.monthevent{
+    background-color: white;
+    border: solid 1px black;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 30px;
 
+}
+.title__monthevent{
+text-align: center;
+font-weight: bolder;
+}
+
+.image__affiche{
+    display: block;
+    text-align: center;
+}
+
+.infoplus{
+    text-align: center;
+}
 /* end last section*/
